@@ -1,0 +1,22 @@
+{
+  "name": "class_2",
+  "version": "1.0.0",
+  "description": "Angular specialization class_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewg1263/CourseraAngularSpecialization.git"
+  },
+  "author": "Yu Gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewg1263/CourseraAngularSpecialization/issues"
+  },
+  "homepage": "https://github.com/Andrewg1263/CourseraAngularSpecialization#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
